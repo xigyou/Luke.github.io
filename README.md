@@ -1,17 +1,38 @@
-## Welcome to GitHub Pages
+## 一起分享一起成长-一起知识管理
 
 You can use the [editor on GitHub](https://github.com/xigyou/Luke.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 为什么要知识管理
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 为什么要知识管理(Why?)
+
+从大学开始我就
+
+# 知识管理怎么做（How?）
+
+## 使用体系
+
+## 选对工具
+
+## 分享反馈
+
+# 知识管理做什么(What？)
+
+## 如何使用OneNote
+
+## 生活中做什么来进行知识管理
+
+## 学习中做什么来进行知识管理
+
+## 工作中做什么来进行知识管理
+
 ## Header 2
 ### Header 3
 
