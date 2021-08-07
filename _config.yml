@@ -1,1 +1,30 @@
-theme: jekyll-theme-hydure
+# Dependencies
+highlighter:   rouge   #pygments
+
+gems: 
+  - jekyll-paginate
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Luke You
+tagline:          'Too little time'
+description:      'Love Study！ Love Share!'
+url:              https://beyondthe.top
+baseurl:          /
+logo:             https://avatars1.githubusercontent.com/u/8529190?s=460&v=4
+
+author:
+  name:           'Luke You'
+  url:            https://www.researchgate.net/profile/Xianfeng_Li4
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/xigyou
+
+theme: jekyll-theme-minimal
